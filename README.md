@@ -12,4 +12,5 @@
 
 
 <h3 align="left">Project:</h3>
-<a href="https://webshop-nextjs-brown.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/valent1neWolf/valent1neWolf/blob/main/logo.png" width="250" /></a>
+<a href="https://webshop-nextjs-brown.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/valent1neWolf/valent1neWolf/blob/main/logo.png" width="250" height="150" /></a>
+<a href="https://job-next-hf6m.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/valent1neWolf/valent1neWolf/blob/main/kondor.jpg" width="250" height="150"/></a>
